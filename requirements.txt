@@ -1,0 +1,11 @@
+agno
+python-dotenv
+yfinance
+packaging
+ddgs
+fastapi
+uvicorn
+google-genai
+google-generativeai
+streamlit
+
